@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using PairingExercise;
 using System;
 
 namespace PairingExerciseTests
@@ -14,6 +15,7 @@ namespace PairingExerciseTests
         [Test]
         public void Validate_Should()
         {
+            test
         }
     }
 }
