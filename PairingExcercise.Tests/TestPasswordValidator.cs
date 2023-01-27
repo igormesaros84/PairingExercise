@@ -15,7 +15,7 @@ namespace PairingExerciseTests
         [Test]
         public void Validate_Should()
         {
-            test
+
         }
     }
 }
